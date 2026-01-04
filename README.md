@@ -1,3 +1,5 @@
+EMRE KAYA 2310206003
+
 Bu repository, **C dili** kullanılarak yazılmış temel **Veri Yapıları ve Algoritmalar** ödevlerini içermektedir. Her konu ayrı bir dosyada, anlaşılır ve ders/ödev formatına uygun şekilde hazırlanmıştır.
 
 ---
